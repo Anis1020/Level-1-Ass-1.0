@@ -95,3 +95,56 @@ header {
 #my-info > div > p {
   padding: 8px 0px;
 }
+.work {
+  width: 60%;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.work > p {
+  margin: 20px 0px;
+}
+.technology {
+  display: flex;
+  gap: 20px;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.javascript {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 15px;
+}
+.reasumy-hesding {
+  text-align: center;
+  margin: 40px 0px;
+}
+#about-resumy {
+  display: flex;
+  gap: 20px;
+  width: 80%;
+  margin: auto;
+}
+.cv {
+  display: flex;
+  margin: auto;
+}
+footer {
+  background-color: #fff8f3;
+  margin: 20px 0px;
+}
+.footer-section {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  gap: 30px;
+  padding: 30px 0px;
+}
+
+input {
+  border: none;
+  padding: 5px;
+  width: 385px;
+}
